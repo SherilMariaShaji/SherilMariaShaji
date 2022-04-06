@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherilmariashaji&label=Profile%20views&color=0e75b6&style=flat" alt="sherilmariashaji" /> </p>
 
-- 🔭 I’m currently perusing my masters in **Computer Science Specialization in Data Analytics**
+- 🔭 I’m currently pursuing my masters in **Computer Science Specialization in Data Analytics**
 
 - 🌱 I’m currently learning **Deep Learning and Quantum Computing**
 
