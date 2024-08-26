@@ -2,14 +2,15 @@
 <h3 align="center">Data Analyst | Data Scientist </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherilmariashaji&label=Profile%20views&color=0e75b6&style=flat" alt="sherilmariashaji" /> </p>
+-  Currently working at Cultyvate as a Data Analyst
 
-- 🌱 I’m currently learning **Deep Learning and Quantum Computing**
+-  I’m currently learning **AI Tools and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Data Analytic projectss**
+-  I’m looking to collaborate on **Machine Learning and Data Analytic projectss**
 
-- 💬 Ask me about **Google Sheet, SQL Server and Machine Learning**
+-  Ask me about **Google Sheet, SQL Server and Machine Learning** 💬
 
-- 📫 How to reach me **sheril.shajij@gmail.com**
+-  How to reach me **sheril.shajij@gmail.com** 📫 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
