@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sheril Maria Shaji</h1>
-<h3 align="center">A passionate Data Analyst and Machine Learning enthusiast</h3>
+<h3 align="center">Data Analyst | Data Scientist </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherilmariashaji&label=Profile%20views&color=0e75b6&style=flat" alt="sherilmariashaji" /> </p>
-
-- 🔭 I’m currently pursuing my masters in **Computer Science Specialization in Data Analytics**
 
 - 🌱 I’m currently learning **Deep Learning and Quantum Computing**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Data Analytic projectss**
 
-- 💬 Ask me about **PowerBI and Machine Learning**
+- 💬 Ask me about **Google Sheet, SQL Server and Machine Learning**
 
 - 📫 How to reach me **sheril.shajij@gmail.com**
 
